@@ -1,8 +1,7 @@
 # Attendance-management
 
 Hey there, everyone!
-
-It's me, Gc, 
+ 
 
 I wanted to share that I've created an attendance management website using the MERN stack. It's a handy tool that allows you to download attendance records as CSV files. You can choose the date and get a list of students who were present or absent on that day.
 
@@ -10,6 +9,3 @@ By default, the attendance period is set to one month, specifically June. But do
 
 If you come across any bugs or issues while using the website, please let me know. I'll be happy to help you solve them. So go ahead, have fun coding, and enjoy the experience!
 
-Happy coding and have a blast!
-
-Cheers, Gc
